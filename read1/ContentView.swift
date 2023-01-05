@@ -27,7 +27,7 @@ import CoreData
                     Button("Blue") { backgroundColor = .blue }
                     Button("Cancel", role: .cancel) { }
                 } message: {
-                    Text("Select a new color")
+                    Text("Select a new color ")
                 }
         }
     }
